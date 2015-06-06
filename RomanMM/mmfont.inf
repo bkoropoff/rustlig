@@ -1,7 +1,7 @@
-FontName (Hasklig_368_wt)
-FullName (Hasklig)
-AppleName (Hasklig_368_wt)
-FamilyName (Hasklig)
+FontName (Rustlig_368_wt)
+FullName (Rustlig)
+AppleName (Rustlig_368_wt)
+FamilyName (Rustlig)
 Version (1.004)
 isFixedPitch true
 CharacterSet (custom)
@@ -13,10 +13,10 @@ UnderlinePosition -100
 UnderlineThickness 50
 StemWidth 43
 Serif false
-AppleName (Hasklig_368_wt)
-MSMenuName (Hasklig_368_wt)
-VPMenuName (Hasklig_368_wt)
-WORDMenuName (Hasklig_368_wt)
+AppleName (Rustlig_368_wt)
+MSMenuName (Rustlig_368_wt)
+VPMenuName (Rustlig_368_wt)
+WORDMenuName (Rustlig_368_wt)
 VPStyle (N)
 WindowsCharSet 0
 WindowsFirstChar 32

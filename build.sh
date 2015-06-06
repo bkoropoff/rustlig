@@ -1,6 +1,6 @@
 #!/bin/sh
 
-family=Hasklig
+family=Rustlig
 weights='Black Bold ExtraLight Light Medium Regular Semibold'
 
 # clean existing build artifacts
